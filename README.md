@@ -4,4 +4,4 @@ I started coding as a hobby and quickly became fascinated by the limitless possi
 
 Thanks for visiting my GitHub Repo! I hope you'll find something here that interests you.
 
-Shoutout to @SanidhyaSingla
+Shoutout to @SanidhyaSingle 
